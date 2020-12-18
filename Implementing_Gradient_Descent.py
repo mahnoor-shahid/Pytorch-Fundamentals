@@ -8,7 +8,7 @@ if __name__ == '__main__':
     
     # Training Data
     x_data = [1.0, 2.0, 3.0]
-    y_data = [12.0, 17.0, 25.0]
+    y_data = [2.0, 4.0, 6.0]
 
     # random initial weights
     w1 = 1.0  
