@@ -6,7 +6,7 @@ Initial code works, basics and implementations using Pytorch
  - Python Intermediate
  - Machine Learning Techniques
   
-File can be opened using any tool that supports the .ipynb format. For example, Jupyter Notebook or PyCharm.
+Files can be opened using any tool that supports the .ipynb and .py format. For example, Jupyter Notebook or PyCharm or VSCode.
  
  # Created By
  **Mahnoor Shahid** - Initial work
